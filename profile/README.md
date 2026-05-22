@@ -1,45 +1,59 @@
-# 🌌 Fumino Dev Inc.
+# 文乃 Fumino Development Group
 
-### "Where Your Dreams Meet the Code" 🚀
-
-Selamat datang di **Fumino Dev Inc.**, studio kreatif yang berdedikasi untuk merealisasikan impian digital Anda melalui pengembangan Discord Bot yang inovatif, fungsional, dan handal. Kami percaya setiap ide hebat layak mendapatkan eksekusi terbaik dengan standar keamanan yang tinggi.
+> *"Language is the bridge between imagination and reality."*
 
 ---
 
-## ✨ Layanan Kami
-Kami menawarkan jasa pembuatan bot kustom yang dirancang dengan hati-hati untuk menunjang kebutuhan komunitas atau bisnis Anda. Untuk memberikan fleksibilitas bagi pembeli, kami menyediakan dua sistem layanan utama:
+## Who We Are
 
-### 1. 🛡️ Managed Bot Service
-Layanan di mana bot sepenuhnya dikelola dan di-hosting oleh Fumino Dev Inc.
-* **Keuntungan:** Anda terima beres tanpa harus memikirkan server, maintenance, atau update teknis.
-* **Stabilitas:** Monitoring 24/7 untuk memastikan bot selalu online.
-* **Cocok untuk:** Pemilik komunitas yang ingin fokus pada manajemen server tanpa kendala teknis.
+Fumino Development Group is an open-source organization building tools that make communication between systems and humans feel natural — wherever that conversation happens.
 
-### 2. 💎 Full Ownership (Custom License)
-Layanan penyerahan aset di mana Anda memegang kendali atas file bot tersebut. Layanan ini tunduk pada aturan lisensi khusus kami:
+Our name is inspired by **Fumino Furuhashi** (文乃) — a character known for her mastery of language and expression. Like her, we believe the most powerful thing a system can do is *communicate well*.
 
-> **Ringkasan Lisensi Full Ownership:**
-> * **Kepemilikan & Komersial:** Hak cipta tetap milik Fumino Dev Inc., namun Klien diberikan hak penuh untuk penggunaan komersial (Monetisasi, Iklan, dll).
-> * **Modifikasi:** Klien diperbolehkan mengubah atau merombak kode (Remix/Derivatives) sesuai kebutuhan.
-> * **Larangan:** Dilarang keras menjual kembali (Reselling) file mentah atau mengklaim lisensi untuk dijual kembali sebagai aset tunggal.
-> * **Distribusi:** Aset hanya boleh didistribusikan jika sudah menjadi bagian dari produk akhir (Game/Aplikasi).
+**文 (Fumi)** — Writing, language, knowledge  
+**乃 (no)** — "Flowing from" — a poetic connector
+
+We build with that philosophy at our core.
 
 ---
 
-## 🛠️ Mengapa Memilih Kami?
+## What We're Building
 
-* **💎 Kualitas Sepenuh Hati:** Setiap baris kode ditulis dengan dedikasi. Kami membangun bot yang bukan hanya berfungsi, tapi juga stabil.
-* **🛡️ Keamanan Terjamin:** Dibuat dengan hati-hati menggunakan praktik koding terbaik untuk menunjang kelangsungan bot Anda.
-* **📊 Harga Terstruktur:** Sistem harga yang transparan, rapi, dan tertata sesuai dengan kompleksitas impian yang ingin Anda wujudkan.
+### 🔧 Fumino Engine
+An open-source agent engine designed to connect AI-powered workflows to any platform — starting with Discord, then expanding to Telegram, WhatsApp, CLI, and beyond.
+
+Think of it as a **universal wrapper** — one engine, many voices.
+
+- 🤖 Agent-based architecture
+- 💬 Discord-first, platform-agnostic
+- 🔌 Pluggable adapters for any chat platform
+- ⚡ Built for developers who want to ship fast
+
+> Inspired by [Hermes Agent](https://github.com/nousresearch/hermes-agent) and [9Router](https://github.com/decolua/9router).
 
 ---
 
-## 🔗 Hubungi Kami
-Siap untuk merealisasikan bot impian Anda? Mari berdiskusi mengenai skema yang paling cocok untuk Anda!
+## Philosophy
 
-* **Discord:** [Join Our Discord](https://discord.gg/XvhEqzEx73)
-* **Email:** fumino@roselaa.my.id
+We don't just write code. We craft systems that *speak*.
+
+Every project under Fumino Development Group is built around three principles:
+
+1. **Clarity** — Clean APIs, predictable behavior, no magic
+2. **Adaptability** — One core, many platforms
+3. **Expression** — Tools that feel natural to use and build with
 
 ---
 
-> **Fumino Dev Inc.** — *Dibuat dengan hati, dijaga dengan logika, demi impian yang nyata.*
+## Get Involved
+
+We're just getting started. If you share the same vision:
+
+- ⭐ Star our repositories
+- 🛠️ Contribute to [Fumino Engine](#)
+- 💬 Join the conversation on [Discord](https://discord.gg/XvhEqzEx73)
+- 📧 Reach us at [fumino@roselaa.my.id](mailto:fumino@roselaa.my.id)
+
+---
+
+*Fumino Development Group — Dibuat dengan hati, dijaga dengan logika.*
