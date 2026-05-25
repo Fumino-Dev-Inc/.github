@@ -50,8 +50,8 @@ Every project under Fumino Development Group is built around three principles:
 We're just getting started. If you share the same vision:
 
 - ⭐ Star our repositories
-- 🛠️ Contribute to [Fumino Engine](#)
-- 💬 Join the conversation on [Discord](https://discord.gg/XvhEqzEx73)
+- 🛠️ Contribute to [Fumino Engine](https://github.com/fumino-development/fumino-engine)
+- 💬 Join the conversation on [Discord](https://discord.gg/bTxWhpXjzx)
 - 📧 Reach us at [fumino@roselaa.my.id](mailto:fumino@roselaa.my.id)
 
 ---
